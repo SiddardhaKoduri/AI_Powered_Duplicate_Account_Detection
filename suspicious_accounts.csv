@@ -1,0 +1,4 @@
+Customer1,Customer2,Name Similarity,Phone Match,PAN Match,Risk Score,Risk Level
+101,102,77.77777777777779,True,True,80,MEDIUM
+101,105,100.0,True,True,100,HIGH
+102,105,77.77777777777779,True,True,80,MEDIUM
